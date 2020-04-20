@@ -1,0 +1,54 @@
+﻿@model int
+
+
+<h2>Edit Book</h2>
+
+<dl class="dl-horizontal">
+    <dt>Book Name : </dt>
+    <dd>
+        <input type="text" id="txtName" class="form-control" placeholder="Name ..." />
+    </dd>
+
+    <dt>Author : </dt>
+    <dd>
+        <input type="text" id="txtAuthor" class="form-control" placeholder="Author ..." />
+    </dd>
+
+    <dt>ISBN : </dt>
+    <dd>
+        <input type="number" id="txtISBN" class="form-control" placeholder="ISBN ..." />
+    </dd>
+
+    <dt></dt>
+    <dd>
+        <input type="button" class="btn btn-warning" value="Edit" id="btnEdit" />
+    </dd>
+</dl>
+
+
+<script>
+
+    $.getJSON("/Api/Books/" + @Model, function(res) {
+        $("#txtName").val(res.BookName);
+        $("#txtAuthor").val(res.Author);
+        $("#txtISBN").val(res.ISBN);
+    });
+
+    $("#btnEdit").click(function() {
+        var book = {
+            ID:@Model,
+            BookName: $("#txtName").val(),
+            Author: $("#txtAuthor").val(),
+            ISBN: $("#txtISBN").val()
+        }
+
+        $.ajax({
+            url: "/Api/Books/"+@Model,
+            type: "Put",
+            data: book
+        }).done(function() {
+            $("#view").load("/Home/List");
+        });
+    });
+</script>
+

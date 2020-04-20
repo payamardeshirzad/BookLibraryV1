@@ -1,0 +1,178 @@
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\roslyn\csc.exe
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\roslyn\vbc.exe
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\roslyn\VBCSCompiler.exe
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\SPA_Example.dll.config
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\SPA_Example.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\SPA_Example.pdb
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\Newtonsoft.Json.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\System.Net.Http.Formatting.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\System.Web.Helpers.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\System.Web.Http.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\System.Web.Http.WebHost.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\System.Web.Mvc.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\System.Web.Razor.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\System.Web.Webpages.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\System.Web.Webpages.Razor.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\System.Web.Razor.xml
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\System.Web.Webpages.xml
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\System.Web.Webpages.Razor.xml
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\System.Web.Helpers.xml
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\System.Web.Mvc.xml
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\Newtonsoft.Json.xml
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\System.Net.Http.Formatting.xml
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\System.Web.Http.xml
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\System.Web.Http.WebHost.xml
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\obj\Debug\SPA_Example.csprojResolveAssemblyReference.cache
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\obj\Debug\SPA_Example.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\obj\Debug\SPA_Example.pdb
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\EntityFramework.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\EntityFramework.SqlServer.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\EntityFramework.xml
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\EntityFramework.SqlServer.xml
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\roslyn\csc.exe
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\roslyn\vbc.exe
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\roslyn\VBCSCompiler.exe
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\SPA_Example.dll
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\SPA_Example.pdb
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\EntityFramework.dll
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\EntityFramework.SqlServer.dll
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\Newtonsoft.Json.dll
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\System.Net.Http.Formatting.dll
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\System.Web.Helpers.dll
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\System.Web.Http.dll
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\System.Web.Http.WebHost.dll
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\System.Web.Mvc.dll
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\System.Web.Razor.dll
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\System.Web.Webpages.dll
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\System.Web.Webpages.Razor.dll
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\EntityFramework.xml
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\EntityFramework.SqlServer.xml
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\System.Web.Razor.xml
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\System.Web.Webpages.xml
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\System.Web.Webpages.Razor.xml
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\System.Web.Helpers.xml
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\System.Web.Mvc.xml
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\Newtonsoft.Json.xml
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\System.Net.Http.Formatting.xml
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\System.Web.Http.xml
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\bin\System.Web.Http.WebHost.xml
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\obj\Debug\SPA_Example.csprojResolveAssemblyReference.cache
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\obj\Debug\SPA_Example.dll
+C:\Users\Payam\Desktop\TopLearn.Com_SPA_MVC\SPA_Example\SPA_Example\obj\Debug\SPA_Example.pdb
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\roslyn\csc.exe
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\roslyn\vbc.exe
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\roslyn\VBCSCompiler.exe
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\SPA_Example.dll
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\SPA_Example.pdb
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\EntityFramework.dll
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\EntityFramework.SqlServer.dll
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\Newtonsoft.Json.dll
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\System.Net.Http.Formatting.dll
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\System.Web.Helpers.dll
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\System.Web.Http.dll
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\System.Web.Http.WebHost.dll
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\System.Web.Mvc.dll
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\System.Web.Razor.dll
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\System.Web.Webpages.dll
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\System.Web.Webpages.Razor.dll
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\EntityFramework.xml
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\EntityFramework.SqlServer.xml
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\System.Web.Razor.xml
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\System.Web.Webpages.xml
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\System.Web.Webpages.Razor.xml
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\System.Web.Helpers.xml
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\System.Web.Mvc.xml
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\Newtonsoft.Json.xml
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\System.Net.Http.Formatting.xml
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\System.Web.Http.xml
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\bin\System.Web.Http.WebHost.xml
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\obj\Debug\SPA_Example.csprojResolveAssemblyReference.cache
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\obj\Debug\SPA_Example.dll
+C:\Users\Payam\Documents\Visual Studio 2012\Projects\SPA_Example\SPA_Example\obj\Debug\SPA_Example.pdb
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\roslyn\csc.exe
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\roslyn\vbc.exe
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\roslyn\VBCSCompiler.exe
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\SPA_Example.dll.config
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\SPA_Example.dll
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\SPA_Example.pdb
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\EntityFramework.dll
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\EntityFramework.SqlServer.dll
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\Newtonsoft.Json.dll
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\System.Net.Http.Formatting.dll
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\System.Web.Helpers.dll
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\System.Web.Http.dll
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\System.Web.Http.WebHost.dll
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\System.Web.Mvc.dll
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\System.Web.Razor.dll
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\System.Web.Webpages.Deployment.dll
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\System.Web.Webpages.dll
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\System.Web.Webpages.Razor.dll
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\EntityFramework.xml
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\EntityFramework.SqlServer.xml
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\System.Web.Razor.xml
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\System.Web.Webpages.xml
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\System.Web.Webpages.Deployment.xml
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\System.Web.Webpages.Razor.xml
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\System.Web.Helpers.xml
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\System.Web.Mvc.xml
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\Newtonsoft.Json.xml
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\System.Net.Http.Formatting.xml
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\System.Web.Http.xml
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\bin\System.Web.Http.WebHost.xml
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\obj\Debug\SPA_Example.csprojAssemblyReference.cache
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\obj\Debug\SPA_Example.csproj.CoreCompileInputs.cache
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\obj\Debug\SPA_Example.csproj.CopyComplete
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\obj\Debug\SPA_Example.dll
+D:\Projects\0MyProjects\SPA_Example\SPA_Example\obj\Debug\SPA_Example.pdb

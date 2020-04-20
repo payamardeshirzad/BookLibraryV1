@@ -1,0 +1,42 @@
+﻿<h2>Add New Book</h2>
+
+<dl class="dl-horizontal">
+    <dt>Name : </dt>
+    <dd>
+        <input type="text" id="txtName" class="form-control" placeholder="Name ..."/>
+    </dd>
+
+    <dt>Author : </dt>
+    <dd>
+        <input type="text" id="txtAuthor" class="form-control" placeholder="Author ..."/>
+    </dd>
+
+    <dt>ISBN : </dt>
+    <dd>
+        <input type="number" id="txtISBN" class="form-control" placeholder="ISBN ..."/>
+    </dd>
+
+    <dt></dt>
+    <dd>
+        <input type="button" class="btn btn-success" value="Save" id="btnSave"/>
+    </dd>
+</dl>
+
+
+<script>
+    $("#btnSave").click(function() {
+        var book = {
+            BookName: $("#txtName").val(),
+            Author: $("#txtAuthor").val(),
+            ISBN: $("#txtISBN").val()
+        }
+
+        $.ajax({
+            url: "/Api/Books",
+            type: "Post",
+            data: book
+        }).done(function() {
+            $("#view").load("/Home/List");
+        });
+    });
+</script>
